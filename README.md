@@ -1,9 +1,1 @@
-COPY ALL RAW CONTENTS
-BOOKMARK PAGE
-USE UNDERCOVER NAME LIKE: "School" 
-CLICK ON FOLDERS
-CLICK "ADD NEW FOLDER"
-PASTE RAW CONTENTS
-GO TO "BLOOKET"
-CLICK ON IT
-HACK AWAY!
+Copy Contents, go to this link: https://mrcoles.com/bookmarklet/ paste contents in bin, use undercover name, and then click include custom script, click convert to bookmark and drag and drop it in bookmarks bar.
